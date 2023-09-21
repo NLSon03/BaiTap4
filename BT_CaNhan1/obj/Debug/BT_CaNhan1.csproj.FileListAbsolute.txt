@@ -1,0 +1,11 @@
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\bin\Debug\BT_CaNhan1.exe.config
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\bin\Debug\BT_CaNhan1.exe
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\bin\Debug\BT_CaNhan1.pdb
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\obj\Debug\BT_CaNhan1.csproj.AssemblyReference.cache
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\obj\Debug\BT_CaNhan1.Form1.resources
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\obj\Debug\BT_CaNhan1.Properties.Resources.resources
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\obj\Debug\BT_CaNhan1.csproj.GenerateResource.cache
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\obj\Debug\BT_CaNhan1.csproj.CoreCompileInputs.cache
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\obj\Debug\BT_CaNhan1.exe
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\obj\Debug\BT_CaNhan1.pdb
+F:\AllProject\CSharpProject\LTWin\LTWinForm\BT_CaNhan1\obj\Debug\BT_CaNhan1.Form2.resources
